@@ -5,24 +5,17 @@
 		"username": "鹿南"
 	},
 	"theme": {
-		"colorBrand": "#B6EFD2",
-		"colorPrimary": "#4E3F42",
-		"colorSecondary": "#7b888e",
-		"colorBrandSecondary": "#FCC841",
-		"colorBg": "#eeeeee",
-		"colorBorder": "#ffffff",
-		"colorCard": "#ffffff66",
-		"colorArticle": "#ffffffcc"
+		"colorBrand": "#2a48f3",
+		"colorPrimary": "#e6e8e8",
+		"colorSecondary": "#acadae",
+		"colorBrandSecondary": "#51d0b9",
+		"colorBg": "#0a051f",
+		"colorBorder": "#8a8a8a5e",
+		"colorCard": "#ffffff0e",
+		"colorArticle": "#6f6f6f33"
 	},
 	"backgroundColors": [
-		"#A731B3",
-		"#FD9AA2",
-		"#F519C2",
-		"#DD6450",
-		"#4DFDB1",
-		"#BD50D1",
-		"#D0953C",
-		"#762458"
+		"#16007b"
 	],
 	"artImages": [
 		{
