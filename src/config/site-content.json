@@ -43,9 +43,13 @@
 		{
 			"id": "2aaadc25dba5c1a3",
 			"url": "/images/background/2aaadc25dba5c1a3.jpg"
+		},
+		{
+			"id": "url-1767339294614",
+			"url": "https://img.dlb.xx.kg/file/default/wZZsfxIe.gif"
 		}
 	],
-	"currentBackgroundImageId": "2aaadc25dba5c1a3",
+	"currentBackgroundImageId": "url-1767339294614",
 	"socialButtons": [],
 	"clockShowSeconds": true,
 	"summaryInContent": false,
