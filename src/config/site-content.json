@@ -23,15 +23,24 @@
 		"#4AEB5E",
 		"#5FD29D"
 	],
-	"artImages": [],
-	"currentArtImageId": "",
+	"artImages": [
+		{
+			"id": "url-1767337498331",
+			"url": "https://img.dlb.xx.kg/file/default/1gJY2z98.png"
+		}
+	],
+	"currentArtImageId": "url-1767337498331",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "url-1767337501981",
+			"url": "https://img.dlb.xx.kg/file/default/1gJY2z98.png"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "url-1767337501981",
 	"socialButtons": [],
 	"clockShowSeconds": true,
 	"summaryInContent": false,
