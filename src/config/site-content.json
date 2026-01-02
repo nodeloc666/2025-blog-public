@@ -5,17 +5,17 @@
 		"username": "鹿南"
 	},
 	"theme": {
-		"colorBrand": "#26B384",
+		"colorBrand": "#2a48f3",
 		"colorPrimary": "#e6e8e8",
 		"colorSecondary": "#acadae",
 		"colorBrandSecondary": "#51d0b9",
 		"colorBg": "#0a051f",
 		"colorBorder": "#8a8a8a5e",
 		"colorCard": "#ffffff0e",
-		"colorArticle": "#00000033"
+		"colorArticle": "#6f6f6f33"
 	},
 	"backgroundColors": [
-		"#171f71"
+		"#16007b"
 	],
 	"artImages": [
 		{
