@@ -1,0 +1,15 @@
+{
+  "title": "3个步骤解决minio与obsidian-livesync实时同步",
+  "tags": [
+    "obsidian",
+    "livesync",
+    "minio",
+    "docker",
+    "服务器"
+  ],
+  "date": "2025-02-24T15:26",
+  "summary": "",
+  "cover": "/blogs/obsidian-livesync-minio/f1b398498025dbe3.jpg",
+  "hidden": false,
+  "category": "项目部署"
+}
