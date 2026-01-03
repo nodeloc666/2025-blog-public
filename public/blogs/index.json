@@ -1,19 +1,5 @@
 [
   {
-    "slug": "share-vmware",
-    "title": "VMware设置共享文件夹(Linux为例)",
-    "tags": [
-      "vmware",
-      "windows",
-      "linux"
-    ],
-    "date": "2026-01-03T15:42",
-    "summary": "实现VMware与宿主机进行文件共享",
-    "cover": "/blogs/share-vmware/aceb85a76134e47b.jpg",
-    "hidden": false,
-    "category": ""
-  },
-  {
     "slug": "vmware-openwrt",
     "title": "VMware搭建openwrt",
     "tags": [
@@ -38,6 +24,20 @@
     "date": "2025-10-16T15:43",
     "summary": "介绍如何为docker容器开启IPv6",
     "cover": "/blogs/docker-ipv6/f8dcb5f3c62df4a2.jpg",
+    "hidden": false,
+    "category": ""
+  },
+  {
+    "slug": "share-vmware",
+    "title": "VMware设置共享文件夹(Linux为例)",
+    "tags": [
+      "vmware",
+      "windows",
+      "linux"
+    ],
+    "date": "2025-10-16T15:42",
+    "summary": "实现VMware与宿主机进行文件共享",
+    "cover": "/blogs/share-vmware/aceb85a76134e47b.jpg",
     "hidden": false,
     "category": ""
   },
