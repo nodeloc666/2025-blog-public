@@ -39,7 +39,7 @@
    * 保存即可
 
 
-![q.png](https://img.cccd.cloudns.be/file/blog/Ans6yC8r.png)
+![q.png](https://img.uutv.dpdns.org/file/blog/Ans6yC8r.png)
 
 
 ### 2.创建登录策略
@@ -67,7 +67,7 @@
    [这个我是直接复制的，原文在此](https://linux.do/t/topic/558073)[](https://linux.do/t/topic/558073)
 
 
-![](https://img.cccd.cloudns.be/file/blog/1KfXTYoz.png "w.png")
+![](https://img.uutv.dpdns.org/file/blog/1KfXTYoz.png "w.png")
 
 
 ### 3.添加应用程序
@@ -79,7 +79,7 @@
 * 按照如图顺序自定义填写即可
 
 
-![e.png](https://img.cccd.cloudns.be/file/blog/kdTXO5dn.png)
+![e.png](https://img.uutv.dpdns.org/file/blog/kdTXO5dn.png)
 
 
 ## 完成
@@ -88,6 +88,6 @@
 下次访问你的网站时，会先跳转到Cloudflare Zero Trust的认证界面。认证通过(你设置的邮箱并输入cloudflare发给你的验证码正确)后，才能进入服务。效果如下：
 
 
-![2025-04-26 164640.png](https://img.cccd.cloudns.be/file/blog/VLStVbcg.png)
+![2025-04-26 164640.png](https://img.uutv.dpdns.org/file/blog/VLStVbcg.png)
 
 
