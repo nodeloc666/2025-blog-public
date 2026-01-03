@@ -65,7 +65,7 @@ minio/minio server /data --console-address ":9000" --address ":9090"
 ### 反代坑点(api 域名 403)
 
 如果所有的都配置完并重启打开，提示如下图的情况，好恭喜你，跟我一样，踩了这个坑。
-![b8.png](https://img.cccd.cloudns.be/file/b8.png)
+![b8.png](https://img.uutv.dpdns.org/file/b8.png)
 
 #### 原因与解决办法
 **原因**：
