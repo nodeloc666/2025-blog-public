@@ -1,5 +1,20 @@
 [
   {
+    "slug": "cloudflare-temp-email",
+    "title": "cloudflare-temp-email简单部署教程",
+    "tags": [
+      "email",
+      "cloudflare",
+      "domain",
+      "worker"
+    ],
+    "date": "2025-04-25T15:35",
+    "summary": "简单部署属于自己的邮局",
+    "cover": "/blogs/cloudflare-temp-email/326d3e9590b2ad72.jpg",
+    "hidden": false,
+    "category": "项目部署"
+  },
+  {
     "slug": "cloudflare-webhook",
     "title": "cloudflare实现webhook功能",
     "tags": [
