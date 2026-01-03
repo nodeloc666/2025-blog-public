@@ -1,0 +1,13 @@
+{
+  "title": "VMware设置共享文件夹(Linux为例)",
+  "tags": [
+    "vmware",
+    "windows",
+    "linux"
+  ],
+  "date": "2026-01-03T15:42",
+  "summary": "实现VMware与宿主机进行文件共享",
+  "cover": "/blogs/share-vmware/aceb85a76134e47b.jpg",
+  "hidden": false,
+  "category": ""
+}
