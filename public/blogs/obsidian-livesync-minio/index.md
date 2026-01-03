@@ -42,21 +42,21 @@ minio/minio server /data --console-address ":9000" --address ":9090"
     
 2. 以 Win 11 配置为例
 
-![a1.jpg](https://img.cccd.cloudns.be/file/a1.jpg)
+![a1.jpg](https://img.uutv.dpdns.org/file/a1.jpg)
 
-![a2.jpg](https://img.cccd.cloudns.be/file/a2.jpg)
+![a2.jpg](https://img.uutv.dpdns.org/file/a2.jpg)
 
-![b3.png](https://img.cccd.cloudns.be/file/b3.png)
+![b3.png](https://img.uutv.dpdns.org/file/b3.png)
 
-![b4.png](https://img.cccd.cloudns.be/file/b4.png)
+![b4.png](https://img.uutv.dpdns.org/file/b4.png)
 
-![b5.png](https://img.cccd.cloudns.be/file/b5.png)
+![b5.png](https://img.uutv.dpdns.org/file/b5.png)
 
-![b6.png](https://img.cccd.cloudns.be/file/b6.png)
+![b6.png](https://img.uutv.dpdns.org/file/b6.png)
 这里随便选一个就行
-![b7.png](https://img.cccd.cloudns.be/file/b7.png)
+![b7.png](https://img.uutv.dpdns.org/file/b7.png)
 然后改成图示或者按需求修改
-![b10.png](https://img.cccd.cloudns.be/file/b10.png)
+![b10.png](https://img.uutv.dpdns.org/file/b10.png)
 然后客户端就设置完成了
 
 
@@ -72,7 +72,7 @@ minio/minio server /data --console-address ":9000" --address ":9090"
 
 1. 查找日志与控制台会发现，obsidian 一直是**HEAD 请求**，而**HEAD**请求是会被**403**的。
 
-![b11.png](https://img.cccd.cloudns.be/file/b11.png)
+![b11.png](https://img.uutv.dpdns.org/file/b11.png)
 
 
 1. 经过多次测试，当你将存储桶改成Public，直接**[https://api+URL/桶名](https://api+url/%E6%A1%B6%E5%90%8D)** ，去访问的时候，会发现是正常的（说明桶是正常的），查看宝塔日志会发现**GET 请求**是**正常**的.
@@ -86,8 +86,10 @@ minio/minio server /data --console-address ":9000" --address ":9090"
 ```
 proxy_cache_convert_head off;
 ```
-![b14.png](https://img.cccd.cloudns.be/file/b14.png)
+![b14.png](https://img.uutv.dpdns.org/file/b14.png)
+
 #### 这样就解决了
+
 # 后记
 
 1. 经测试，**1 panel**应该直接反代后就能正常使用，不用进行额外配置**（我是这样的）**
