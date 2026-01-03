@@ -1,5 +1,18 @@
 [
   {
+    "slug": "windows-c",
+    "title": "帮助减少C盘空间的一种有效方法",
+    "tags": [
+      "Windows",
+      "C盘"
+    ],
+    "date": "2025-09-01T15:41",
+    "summary": "本文章通过创建符号链接或目录联接以解除部分大文件对C盘的占用",
+    "cover": "/blogs/windows-c/d813ce9a9d16169b.jpg",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "vps-warp",
     "title": "VPS使用官方方法接入Warp服务",
     "tags": [
