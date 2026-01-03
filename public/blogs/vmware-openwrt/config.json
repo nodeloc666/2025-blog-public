@@ -1,0 +1,14 @@
+{
+  "title": "VMware搭建openwrt",
+  "tags": [
+    "vmware",
+    "windows",
+    "linux",
+    "openwrt"
+  ],
+  "date": "2025-12-12T15:44",
+  "summary": "本教程创建了一个OpenWRT的VMware虚拟机，然后将其用作仅主机模式的虚拟局域网网关，为其他虚拟机提供网络配置服务。",
+  "cover": "/blogs/vmware-openwrt/085892027b154a1a.jpg",
+  "hidden": false,
+  "category": "项目部署"
+}
