@@ -22,7 +22,7 @@
 ```
 A	ns	8.8.8.8
 ```
-![c1.png](https://img.cccd.cloudns.be/file/c1.png)
+![c1.png](https://img.uutv.dpdns.org/file/c1.png)
 
 
 
@@ -70,13 +70,13 @@ ns.ok.cloud-ip.biz	NS	b.ns.cloudflare.com
 5. **结束**，共7条记录
 
 
-![c2.png](https://img.cccd.cloudns.be/file/c2.png)
+![c2.png](https://img.uutv.dpdns.org/file/c2.png)
 
 
 此时，你尝试去ping`*.ok.cloud-ip.biz`(如`1.ok.cloud-ip.biz`)有IP显示ping通就**大功告成**了
 
 
-![c3.jpg](https://img.cccd.cloudns.be/file/c3.jpg)
+![c3.jpg](https://img.uutv.dpdns.org/file/c3.jpg)
 
 
 # 方法二（最简洁）
@@ -122,13 +122,13 @@ acme-challenge.ok.cloud-ip.biz	NS	b.ns.cloudflare.com
 5. **结束**,共5条记录
 
 
-![c4.png](https://img.cccd.cloudns.be/file/c4.png)
+![c4.png](https://img.uutv.dpdns.org/file/c4.png)
 
 
 此时，你尝试去ping`*.ok.cloud-ip.biz`(如`1.ok.cloud-ip.biz`)有IP显示ping通就**大功告成**了
 
 
-![c5.png](https://img.cccd.cloudns.be/file/c5.png)
+![c5.png](https://img.uutv.dpdns.org/file/c5.png)
 
 
 # 后记
